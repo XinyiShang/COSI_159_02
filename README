@@ -1,0 +1,6 @@
+cosi 159 Homework 2
+Implemented based on the paper "SphereFace: Deep Hypersphere Embedding for Face Recognition"
+
+References:
+https://github.com/Joyako/SphereFace-pytorch
+https://github.com/wy1iu/sphereface
